@@ -117,14 +117,35 @@
   </a>
 </p>
 
-### 🤖 Inteligencia Artificial
+### ### 🤖 Inteligencia Artificial
 
 <p>
+  <a href="https://chatgpt.com/">
+    <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="48" height="48" alt="ChatGPT" />
+  </a>
+  <a href="https://claude.ai/">
+    <img src="https://cdn.simpleicons.org/claude/D97757" width="48" height="48" alt="Claude" />
+  </a>
+  <a href="https://gemini.google.com/">
+    <img src="https://cdn.simpleicons.org/googlegemini/8E75FF" width="48" height="48" alt="Google Gemini" />
+  </a>
   <a href="https://github.com/features/copilot">
     <img src="https://cdn.simpleicons.org/githubcopilot/FFFFFF" width="48" height="48" alt="GitHub Copilot" />
   </a>
+  <a href="https://copilot.microsoft.com/">
+    <img src="https://cdn.simpleicons.org/microsoftcopilot/FFFFFF" width="48" height="48" alt="Microsoft Copilot" />
+  </a>
+  <a href="https://chat.deepseek.com/">
+    <img src="https://cdn.simpleicons.org/deepseek/4D6BFE" width="48" height="48" alt="DeepSeek" />
+  </a>
+  <a href="https://www.perplexity.ai/">
+    <img src="https://cdn.simpleicons.org/perplexity/20B8CD" width="48" height="48" alt="Perplexity AI" />
+  </a>
+  <a href="https://cursor.com/">
+    <img src="https://cdn.simpleicons.org/cursor/FFFFFF" width="48" height="48" alt="Cursor" />
+  </a>
   <a href="https://www.anthropic.com/claude-code">
-    <img src="https://cdn.simpleicons.org/claude/FF6B35" width="48" height="48" alt="Claude Code" />
+    <img src="https://cdn.simpleicons.org/claude/D97757" width="48" height="48" alt="Claude Code" />
   </a>
 </p>
 
