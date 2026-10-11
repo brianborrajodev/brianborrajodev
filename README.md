@@ -34,9 +34,6 @@
 ### 💻 Lenguajes
 
 <p>
-  <a href="https://www.java.com/">
-    <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-  </a>
   <a href="https://www.python.org/">
     <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
   </a>
