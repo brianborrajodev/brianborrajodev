@@ -117,33 +117,34 @@
   </a>
 </p>
 
-### ### 🤖 Inteligencia Artificial
 
+
+### 🤖 Agentes de IA
 
 <p>
-  <a href="https://chatgpt.com/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/openai.svg" width="48" height="48" alt="ChatGPT" />
+  <a href="https://www.anthropic.com/claude-code">
+    <img src="https://cdn.simpleicons.org/claude/D97757" width="48" height="48" alt="Claude Code" />
   </a>
-  <a href="https://claude.ai/">
-    <img src="https://cdn.simpleicons.org/claude/D97757" width="48" height="48" alt="Claude" />
+  <a href="https://openai.com/codex/">
+    <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="48" height="48" alt="OpenAI Codex" />
   </a>
-  <a href="https://gemini.google.com/">
-    <img src="https://cdn.simpleicons.org/googlegemini/8E75FF" width="48" height="48" alt="Google Gemini" />
+  <a href="https://cursor.com/">
+    <img src="https://cdn.simpleicons.org/cursor/FFFFFF" width="48" height="48" alt="Cursor" />
   </a>
   <a href="https://github.com/features/copilot">
     <img src="https://cdn.simpleicons.org/githubcopilot/FFFFFF" width="48" height="48" alt="GitHub Copilot" />
   </a>
-  <a href="https://copilot.microsoft.com/">
-    <img src="https://cdn.simpleicons.org/microsoftcopilot/FFFFFF" width="48" height="48" alt="Microsoft Copilot" />
+  <a href="https://windsurf.com/">
+    <img src="https://cdn.simpleicons.org/windsurf/00A3FF" width="48" height="48" alt="Windsurf" />
   </a>
-  <a href="https://chat.deepseek.com/">
-    <img src="https://cdn.simpleicons.org/deepseek/4D6BFE" width="48" height="48" alt="DeepSeek" />
+  <a href="https://aider.chat/">
+    <img src="https://cdn.simpleicons.org/aider/FFFFFF" width="48" height="48" alt="Aider" />
   </a>
-  <a href="https://www.perplexity.ai/">
-    <img src="https://cdn.simpleicons.org/perplexity/20B8CD" width="48" height="48" alt="Perplexity AI" />
+  <a href="https://cline.bot/">
+    <img src="https://cdn.simpleicons.org/cline/6F42C1" width="48" height="48" alt="Cline" />
   </a>
-  <a href="https://cursor.com/">
-    <img src="https://cdn.simpleicons.org/cursor/FFFFFF" width="48" height="48" alt="Cursor" />
+  <a href="https://opencode.ai/">
+    <img src="https://cdn.simpleicons.org/opencode/FFFFFF" width="48" height="48" alt="OpenCode" />
   </a>
 </p>
 
