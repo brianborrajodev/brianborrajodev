@@ -125,9 +125,9 @@
   <a href="https://www.anthropic.com/claude-code">
     <img src="https://cdn.simpleicons.org/claude/D97757" width="48" height="48" alt="Claude Code" />
   </a>
-  <a href="https://openai.com/codex/">
-    <img src="https://cdn.simpleicons.org/openai/412991" width="48" height="48" alt="OpenAI Codex" />
-  </a>
+     <a href="https://chatgpt.com/codex">
+  <img src="https://api.iconify.design/simple-icons/openai.svg?color=%238B5CF6" width="48" height="48" alt="ChatGPT" />
+</a>
   <a href="https://cursor.com/">
     <img src="https://cdn.simpleicons.org/cursor/FFFFFF" width="48" height="48" alt="Cursor" />
   </a>
@@ -138,8 +138,8 @@
     <img src="https://cdn.simpleicons.org/windsurf/00A3FF" width="48" height="48" alt="Windsurf" />
   </a>
   <a href="https://aider.chat/">
-    <img src="https://cdn.simpleicons.org/aider/FFFFFF" width="48" height="48" alt="Aider" />
-  </a>
+  <img src="https://aider.chat/assets/logo.svg" width="48" height="48" alt="Aider" />
+</a>
   <a href="https://cline.bot/">
     <img src="https://cdn.simpleicons.org/cline/6F42C1" width="48" height="48" alt="Cline" />
   </a>
