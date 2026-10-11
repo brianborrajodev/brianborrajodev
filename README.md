@@ -119,9 +119,10 @@
 
 ### ### 🤖 Inteligencia Artificial
 
+
 <p>
   <a href="https://chatgpt.com/">
-    <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="48" height="48" alt="ChatGPT" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/openai.svg" width="48" height="48" alt="ChatGPT" />
   </a>
   <a href="https://claude.ai/">
     <img src="https://cdn.simpleicons.org/claude/D97757" width="48" height="48" alt="Claude" />
@@ -143,9 +144,6 @@
   </a>
   <a href="https://cursor.com/">
     <img src="https://cdn.simpleicons.org/cursor/FFFFFF" width="48" height="48" alt="Cursor" />
-  </a>
-  <a href="https://www.anthropic.com/claude-code">
-    <img src="https://cdn.simpleicons.org/claude/D97757" width="48" height="48" alt="Claude Code" />
   </a>
 </p>
 
