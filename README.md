@@ -112,6 +112,9 @@
   <a href="https://code.visualstudio.com/docs">
     <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="Visual Studio Code" />
   </a>
+  <a href="https://www.postman.com/">
+    <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+  </a>
 </p>
 
 ### 🤖 Inteligencia Artificial
