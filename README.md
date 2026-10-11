@@ -126,7 +126,7 @@
     <img src="https://cdn.simpleicons.org/claude/D97757" width="48" height="48" alt="Claude Code" />
   </a>
   <a href="https://openai.com/codex/">
-    <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="48" height="48" alt="OpenAI Codex" />
+    <img src="https://cdn.simpleicons.org/openai/412991" width="48" height="48" alt="OpenAI Codex" />
   </a>
   <a href="https://cursor.com/">
     <img src="https://cdn.simpleicons.org/cursor/FFFFFF" width="48" height="48" alt="Cursor" />
