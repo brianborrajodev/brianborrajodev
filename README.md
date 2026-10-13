@@ -1,7 +1,8 @@
 
 
 
-<img width="2056" height="765" alt="ChatGPT Image 7 oct 2026, 10_07_40 p m" src="https://github.com/user-attachments/assets/54ac5d02-f542-4cf4-901c-ffd83ebababf" />
+<img width="1677" height="624" alt="Gemini_Generated_Image_a7lb8ja7lb8ja7lb" src="https://github.com/user-attachments/assets/3c4bbdb8-2105-4409-8977-935d666f11fe" />
+
 
 <br>
 
