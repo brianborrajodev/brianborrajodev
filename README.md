@@ -81,6 +81,9 @@
   <a href="https://nodejs.org/docs/latest/api/">
     <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
   </a>
+    <a href="https://jestjs.io/docs/getting-started">
+    <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="Jest" />
+  </a>
   <a href="https://expressjs.com/">
     <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" />
   </a>
