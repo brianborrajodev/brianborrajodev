@@ -83,6 +83,8 @@
   </a>
     <a href="https://jestjs.io/docs/getting-started">
     <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="Jest" />
+        <a href="https://docs.python.org/3/library/unittest.html">
+    <img src="https://img.shields.io/badge/unittest-3776AB?style=flat-square&logo=python&logoColor=white" width="48" height="48" alt="unittest"
   </a>
   <a href="https://expressjs.com/">
     <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" />
