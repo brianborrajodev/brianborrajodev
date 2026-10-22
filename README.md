@@ -148,6 +148,10 @@
   <a href="https://aider.chat/">
   <img src="https://aider.chat/assets/logo.svg" width="48" height="48" alt="Aider" />
 </a>
+  
+  <a href="https://ollama.com/">
+    <img src="https://cdn.simpleicons.org/ollama/FFFFFF" width="48" height="48" alt="Ollama" />
+  </a>
   <a href="https://cline.bot/">
     <img src="https://cdn.simpleicons.org/cline/6F42C1" width="48" height="48" alt="Cline" />
   </a>
