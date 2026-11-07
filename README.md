@@ -165,7 +165,7 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=brianborrajodev&show_icons=true&theme=tokyonight" />
+  <img src="https://github-stats-extended.vercel.app/api?username=brianborrajodev&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
